@@ -16,29 +16,29 @@ The voting app can be run on Windows Powershell and Linux. It is currently set u
 
 - Go into the Backend/ folder:
 
-    cd Backend/
+        cd Backend/
 
 - If it is the first time starting the backend, dependencies need to be installed.
 
-    npm i 
+        npm i 
 
 - Start the Backend:
 
-    node app.js
+        node app.js
 
 ## Start the Frontend
 
 - Go into the Frontend/ folder:
 
-    cd Frontend/
+        cd Frontend/
 
 - If it is the first time starting the backend, dependencies need to be installed.
 
-    npm i
+        npm i
 
 - Start the frontend:
 
-    npm start
+        npm start
 
 ## Author
 - Eugénie Laugier
